@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "d:/Placement Prep/GIT/DSA-IN-JAVA/C++ Fundamentals",
+      "program": "d:/Placement Prep/GIT/DSA-IN-JAVA/C++ Fundamentals/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
